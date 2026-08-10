@@ -1,2 +1,4 @@
 TESD 1100 - Client-side Web Development
+N/A
+N/A
 Error - Does not exist
